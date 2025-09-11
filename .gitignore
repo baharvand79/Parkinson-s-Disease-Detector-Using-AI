@@ -1,1 +1,10 @@
 /mPower_copied_audio_files
+/1/Italian/data
+/1/mPower_copied_audio_files
+/1/UAMS/data/augmented_ALL_VALIDS_ALL
+/1/UAMS/data/augmented_ALL_VALIDS_BASIC
+/1/UAMS/data/balanced_ALL_VALIDS_ALL
+/1/UAMS/data/balanced_ALL_VALIDS_BASIC
+/1/UAMS/data/original_ALL_VALIDS_ALL
+/1/UAMS/data/original_ALL_VALIDS_BASIC
+*.npz

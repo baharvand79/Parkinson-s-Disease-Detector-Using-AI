@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+pydub
+noisereduce
+librosa
+numpy
