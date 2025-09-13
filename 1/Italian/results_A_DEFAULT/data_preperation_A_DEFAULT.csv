@@ -1,0 +1,11 @@
+Category,Item,Value
+Data Counts,Original Parkinson,55
+Data Counts,Augmented Healthy,132
+Data Counts,Augmented Parkinson,165
+Data Counts,Balanced Healthy,220
+Data Counts,Balanced Parkinson,220
+Feature Shapes,Mel Spectrogram,"(0,)"
+Feature Shapes,Mfcc,"(0,)"
+Feature Shapes,Labels,"(440,)"
+Feature Shapes,Sex,"(440,)"
+Feature Shapes,Age,"(440,)"
