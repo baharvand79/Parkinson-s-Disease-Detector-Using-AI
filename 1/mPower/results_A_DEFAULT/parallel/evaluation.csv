@@ -1,0 +1,8 @@
+﻿Metric,Value
+True Positive (TP),164 (39.42%)
+True Negative (TN),95 (22.84%)
+False Positive (FP),113 (27.16%)
+False Negative (FN),44 (10.58%)
+Precision,0.5921
+Recall (Sensitivity),0.7885
+F1-Score,0.6763

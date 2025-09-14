@@ -1,0 +1,9 @@
+Metric,Value
+Accuracy,0.5214723926380368
+Precision,0.9153846153846154
+Recall,0.5288888888888889
+F1-Score,0.6704225352112676
+True_Negatives,17.0
+False_Positives,22.0
+False_Negatives,212.0
+True_Positives,238.0

@@ -1,2 +1,0 @@
-total_samples_analyzed,healthy_samples,parkinson_samples,mean_abs_shap_healthy,mean_abs_shap_parkinson,max_shap_difference
-66,33,33,0.00013916880831037876,0.0001399053980014308,0.021603626298215342
