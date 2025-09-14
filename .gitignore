@@ -9,3 +9,5 @@
 /1/UAMS/data/original_ALL_VALIDS_BASIC
 *.npz
 *.wav
+/2/data/mPower_copied_audio_files
+/2
